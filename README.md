@@ -11,7 +11,7 @@ I love learning new things and documenting my progress. Currently, I'm focusing 
 
 
 ### 📱 Connect with me
-* **Instagram:** <a href="https://instagram.com/yimiro" target="_blank">@yimiro</a>
+* **Instagram:** <a href="https://instagram.com/yimiro_c" target="_blank">@yimiro</a>
 
 
 
