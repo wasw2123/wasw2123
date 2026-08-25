@@ -1,5 +1,7 @@
 # 서민혁 | Backend Developer
 
+[Repository](https://github.com/wasw2123/rebalance-backend-public) · [Portfolio](https://app.notion.com/p/Rebalance-3c47084d06cd8051834af078e2fdbadc)
+
 기획 의도를 데이터 규칙과 API 계약으로 구체화하고,  
 예외 상황에서도 그 규칙이 유지되는지 테스트로 검증합니다.
 
@@ -27,8 +29,6 @@
 
 **Tech Stack**  
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy Async` `Alembic` `APScheduler` `FCM` `Docker` `AWS`
-
-[Repository](https://github.com/wasw2123/rebalance-backend-public) · [Portfolio](https://app.notion.com/p/Rebalance-3c47084d06cd8051834af078e2fdbadc)
 
 ---
 
