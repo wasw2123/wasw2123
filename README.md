@@ -1,7 +1,5 @@
 # 서민혁 | Backend Developer
 
-[Repository](https://github.com/wasw2123/rebalance-backend-public) · [Portfolio](https://app.notion.com/p/Rebalance-3c47084d06cd8051834af078e2fdbadc)
-
 기획 의도를 데이터 규칙과 API 계약으로 구체화하고,  
 예외 상황에서도 그 규칙이 유지되는지 테스트로 검증합니다.
 
@@ -13,6 +11,7 @@
 ## Featured Project
 
 ### Rebalance — 장기 투자자를 위한 포트폴리오 리밸런싱 서비스
+[Repository](https://github.com/wasw2123/rebalance-backend-public) · [Portfolio](https://app.notion.com/p/Rebalance-3c47084d06cd8051834af078e2fdbadc)
 
 사용자가 목표 비중을 설정하면 현재 포트폴리오와의 차이를 계산하고,  
 실행 가능한 매수·매도 수량과 리밸런싱 시점을 안내하는 개인 프로젝트입니다.
